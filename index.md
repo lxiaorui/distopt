@@ -1,3 +1,4 @@
+
 ## Website under construction
 
 ## Overview
@@ -15,11 +16,15 @@ In this tutorial, we provide a systematic introduction of communication efficien
 - [Jiliang Tang](http://cse.msu.edu/~tangjili)
 
 
+## Date
+
+April 21, 2021
+
 ## Outline 
 
 ## Slide
 
-## Reference
+## Reading List
 
 
 
