@@ -18,7 +18,7 @@ In this tutorial, we provide a systematic introduction of communication efficien
 
 ## Date
 
-Virtual on August 21st, 2021
+Virtual from 10:00 am to 1:00 pm on August 20th, 2021 (EST)
 
 ## Outline 
 
