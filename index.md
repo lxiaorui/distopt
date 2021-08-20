@@ -1,5 +1,5 @@
 
-# Note: website under construction
+# Note: The slide will be uploaded soon!
 
 ## Overview
 The recent explosion in the sizes of machine learning models and datasets has led us to the contemporary big data era. With the increased availability of computational resources, distributed learning has become the cornerstone for the success of machine learning in numerous areas. However, the scaling of existing distributed learning system is dominantly restricted by the communication bottlenecks, especially when the communication network bandwidth is limited. Therefore, how to develop communication efficient distributed learning algorithms becomes the crux for building large-scale and efficient distributed learning systems.
