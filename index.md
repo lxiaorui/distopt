@@ -11,11 +11,14 @@ In this tutorial, we provide a systematic introduction of communication efficien
 
 ## Presenter
 
-- [Xiaorui Liu](http://cse.msu.edu/~xiaorui/)
+- [Xiaorui Liu](http://cse.msu.edu/~xiaorui/) 
 - [Yao Li](https://yaoleoli.github.io/)
 - [Ming Yan](https://users.math.msu.edu/users/myan/)
 - [Jiliang Tang](http://cse.msu.edu/~tangjili)
 
+<!-- ![](./assets/images/speaker.png) -->
+
+<img src="./assets/images/speaker.png" width="800" height="320" />   
 
 ## Date
 
@@ -23,9 +26,14 @@ Virtual from 10:00 am to 1:00 pm on August 20th, 2021 (EST)
 
 ## Outline 
 
-## Slide: the slide will be uploaded soon!
+<!-- ![](./assets/images/tutorial_outline.png) -->
 
-## Reading List
+<img src="./assets/images/tutorial_outline.png" width="800" height="600" />   
+
+## Slide
+
+[Download](http://cse.msu.edu/~xiaorui/files/IJCAI2021_OPT_Tutorial.pdf)
+
 
 
 
