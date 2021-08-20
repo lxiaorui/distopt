@@ -1,5 +1,6 @@
 
-# Note: The slide will be uploaded soon!
+# Communication Efficient Distributed Learning
+
 
 ## Overview
 The recent explosion in the sizes of machine learning models and datasets has led us to the contemporary big data era. With the increased availability of computational resources, distributed learning has become the cornerstone for the success of machine learning in numerous areas. However, the scaling of existing distributed learning system is dominantly restricted by the communication bottlenecks, especially when the communication network bandwidth is limited. Therefore, how to develop communication efficient distributed learning algorithms becomes the crux for building large-scale and efficient distributed learning systems.
@@ -22,7 +23,7 @@ Virtual from 10:00 am to 1:00 pm on August 20th, 2021 (EST)
 
 ## Outline 
 
-## Slide
+## Slide: the slide will be uploaded soon!
 
 ## Reading List
 
